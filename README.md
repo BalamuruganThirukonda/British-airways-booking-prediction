@@ -1,2 +1,27 @@
 # British-airways-booking-prediction
 Machine learning algorithm to predict booking behaviour
+
+## Project Name
+Random Forest Model for Booking Prediction
+
+## About the project:
+Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday.
+
+This is possible with the use of data and predictive models. The most important factor with a predictive model is the quality of the data you use to train the machine learning algorithms. For this task, you must manipulate and prepare the provided customer booking data so that you can build a high-quality predictive model.
+
+With your predictive model, it is important to interpret the results in order to understand how “predictive” the data really was and whether we can feasibly use it to predict the target outcome (customers buying holidays). Therefore, you should evaluate the model's performance and output how each variable contributes to the predictive model's power.
+
+## Purpose: 
+Machine Learning Algorithm to predict customer booking completion
+
+## Objective: 
+Develop a machine learning algorithm to predict booking behaviour based on features like purchase lead time, length of stay, booking origin, seat preference, extra baggage preference etc
+
+## Overview of project
+Explore the dataset and handle missing value and outliers. Visualize the exporatory data findings. Transforming the data into a suitable format and performing any necessary cleaning and pre-processing steps. Exploring skewness and outliers in the dataset.Creating new features and convert the features into categorical variable. Trained a machine learning model using Random Forest Classifier to be able to predict the target outcome, which is a customer making a booking. Evaluated the model by conducting cross-validation and outputting appropriate evaluation metrics. Created a visualisation to interpret how each variable contributed to the model. Summarized the findings in a Power point.
+
+## Getting Started
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+- Python: `pip install -r requirements.txt`
